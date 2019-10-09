@@ -16,5 +16,5 @@ Wednesdays 10 AM - 11AM-ish
 Diff 421
 
 ## Questions?
-Contact Jesse 
+Contact Jesse (jrp17c@my.fsu.edu) 
 or, as always, Dr. Romano
