@@ -8,6 +8,7 @@ Everyone is invited to read the weekly article in advance.
 * Sept 25: [Roth](./Roth-2019-Digital-digitized-and-numerical-hum.pdf)
 * Oct 2: [Proctor](https://www.museumsandtheweb.com/mw2010/papers/proctor/proctor.html)
 * Oct 9: [Maley](https://github.com/fsu-pih/ig-dh-reading/blob/master/Maley%20-%202011%20-%20Analog%20and%20digital%2C%20continuous%20and%20discrete.pdf)
+* Oct 16: [D’Ignazio, Catherine, and Lauren Klein](https://bookbook.pubpub.org/pub/dgv16l22)
 
 ## When?
 Wednesdays 10 AM - 11AM-ish
