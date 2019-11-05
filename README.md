@@ -10,7 +10,7 @@ Everyone is invited to read the weekly article in advance.
 * Oct 9: [Maley](https://github.com/fsu-pih/ig-dh-reading/blob/master/Maley%20-%202011%20-%20Analog%20and%20digital%2C%20continuous%20and%20discrete.pdf)
 * Oct 16: [D’Ignazio and Klein](https://bookbook.pubpub.org/pub/dgv16l22)
 * Oct 23: [Disrupt](https://www.youtube.com/watch?v=BGRY14znFxY)
-* Oct 30: Library of Babbel by Jorge Luis Borges
+* Oct 30: Library of Babel by Jorge Luis Borges
 * Nov 6: [Janes](https://onlinelibrary-wiley-com.proxy.lib.fsu.edu/doi/full/10.1111/j.2151-6952.2010.00032.x)
 
 ## When?
