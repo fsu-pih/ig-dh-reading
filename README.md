@@ -12,6 +12,7 @@ Everyone is invited to read the weekly article in advance.
 * Oct 23: [Disrupt](https://www.youtube.com/watch?v=BGRY14znFxY)
 * Oct 30: Library of Babel by Jorge Luis Borges
 * Nov 6: [Janes](https://onlinelibrary-wiley-com.proxy.lib.fsu.edu/doi/full/10.1111/j.2151-6952.2010.00032.x)
+* Nov 13 [Niinluoto](https://github.com/fsu-pih/ig-dh-reading/blob/master/Readings/Niiniluoto1993_Article_TheAimAndStructureOfAppliedRes.pdf) 
 
 ## When?
 Wednesdays 10 AM - 11AM-ish
