@@ -19,6 +19,7 @@ Fall 2019:
 Spring 2020:
 * Jan 13: [Searle](https://github.com/fsu-pih/ig-dh-reading/blob/master/Readings/Social%20Ontology%20and%20the%20Philosophy%20of%20Society.pdf)
 * Jan 21: [Grandy](https://github.com/fsu-pih/ig-dh-reading/blob/master/Readings/Artifacts%20Parts%20and%20Principles.pdf)
+* Jan 27: "On the Place of Artifacts in Ontology" by Crawford E. Elder
 
 ## When?
 * Fall 2019: Wednesdays 10 AM - 11AM-ish
