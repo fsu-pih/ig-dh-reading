@@ -20,6 +20,18 @@ Spring 2020:
 * Jan 13: [Searle](https://github.com/fsu-pih/ig-dh-reading/blob/master/Readings/Social%20Ontology%20and%20the%20Philosophy%20of%20Society.pdf)
 * Jan 21: [Grandy](https://github.com/fsu-pih/ig-dh-reading/blob/master/Readings/Artifacts%20Parts%20and%20Principles.pdf)
 * Jan 27: "On the Place of Artifacts in Ontology" by Crawford E. Elder
+* Feb 3: "Artifacts and Human Concepts" by Amie L. Thomasson
+* Feb 10: "Artwork as Artifacts" by Jerrold Levinson
+* Feb 17: "Artifact Categorization: The Good, the Bad, and the Ugly" by Barbara C. Malt and Steven A Sloman
+* Feb 24: "Seedless Grapes: Nature and Culture" by Dan Sperber 
+* Mar 2: "How to refer to Artifacts" by Hilary Kornblith
+* Mar 9: "Water as an Artifact Kind" by Paul Bloom
+* Mar 23: "The Organization and Representation of Conceptual knowledge in the Brain: Living Kinds and Artifacts" by Bradford Z. Mahon and Alfonzo Caramazza
+* Mar 30: "The Conceptual Foundations of Animals and Artifacts" by Jean M. Mandler
+* Apr 6: "The Essence of Artifacts: Developing the Design Stance" by Deborah Kelemen and Susan Carey 
+* Apr 13: "A World Apart: How Concepts of the Constructed World are Different in Representation and in Development" by Frank C. Keil, Marissa L. Greif, and Rebekkan S. Kerner
+* Apr 20: "Animal Artifacts" by James L. Gould
+* Apr 28: "The Evolutionary Ancestry of Our Knowledge of Tools: From Percepts to Concepts" by Marc D. Hauser and Laurie R. Santos
 
 ## When?
 * Fall 2019: Wednesdays 10 AM - 11AM-ish
