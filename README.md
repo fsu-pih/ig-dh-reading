@@ -31,8 +31,7 @@ Spring 2020:
 * Apr 6: "The Essence of Artifacts: Developing the Design Stance" by Deborah Kelemen and Susan Carey 
 * Apr 13: "A World Apart: How Concepts of the Constructed World are Different in Representation and in Development" by Frank C. Keil, Marissa L. Greif, and Rebekkan S. Kerner
 * Apr 20: "Animal Artifacts" by James L. Gould
-* Apr 28: "The Evolutionary Ancestry of Our Knowledge of Tools: From Percepts to Concepts" by Marc D. Hauser and Laurie R. Santos
-
+* Apr 28: Paper workshop, hashing out the final draft of our white paper
 ## When?
 * Fall 2019: Wednesdays 10 AM - 11AM-ish
 * Spring 2020: Mondays 1:30 PM - 2:30 PM
