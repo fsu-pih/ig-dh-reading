@@ -63,5 +63,5 @@ Principles of Ontology
 
 ### Credit and Outside Resources
 
-* xenobots
+* [xenobots](https://www.cnn.com/2020/01/13/us/living-robot-stem-cells-intl-hnk-scli-scn/index.html)
 * prototype = first draft
