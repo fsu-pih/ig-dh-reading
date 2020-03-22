@@ -1,0 +1,25 @@
+E: so I was thinking... are there any digital artifacts that aren't human made? like would you consider that humans are ultimately the author of all digital artifacts?
+
+J: it depends on how central you think intention and function are to the design and character of artifacts
+J: Perhaps made by a non human, intelligence, anything other than that you'd need a different concept of artifacts
+J: Or something that gains a function later? What did you have in mind
+
+E: I don't have anything in mind. I feel like its hard to say that anything made by a computer isn't ultimately designed by a human? even the something made by a totally random code or something is still human designed no?
+E: the whole thought came about when I thought that any digital artifact not made/designed/authored by a human *might* have less "aura" if we're going along with Benjamin's theory, which we're probably not anyway
+
+M: So you could consider neural network works as computer made... 
+M: I think when we discuss Serle, there's that range of human interation with the artifact itself
+
+E: hmm good point
+
+M: but serle's distinction is that if it has no human interaction for creation then it is a natural kind
+
+E: but neural networks still rely on human made stuff/artifacts ?? and only exist because we made them? so I feel like calling it a natural kind... is weird lol
+
+M: Well I don't think it fits serle's standard. I think we have to distinguih born digital artifacts and products of digital artifacts
+
+E: mm yeah I agree
+
+M: Because then it would position digital artifacts as something that requires function
+
+E: true true good point!! we should def include that in our paper
